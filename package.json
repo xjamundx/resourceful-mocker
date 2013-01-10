@@ -1,0 +1,18 @@
+{
+  "author": "Jamund Ferguson <jamund@gmail.com> (http://www.jamund.com)",
+  "name": "resourceful-mocker",
+  "description": "Easily mock Resourceful models",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "resourceful": "~0.3.3"
+  },
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
