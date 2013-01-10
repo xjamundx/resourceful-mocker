@@ -35,9 +35,9 @@ You can run tests by typing the following:
 
 ## To Do
 
-[ ] Add support for all Resourceful types
-[ ] Respect Validation Criteria
-[ ] Provide support for JSON mocks
+- [ ] Add support for all Resourceful types
+- [ ] Respect Validation Criteria
+- [ ] Provide support for JSON mocks
 
 ## License
 
